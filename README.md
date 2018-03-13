@@ -3,10 +3,10 @@
  RSS reader app in Swift 4. Based on fetching XML content, parsing and showing details to user.
 #
 RSS feeds screen:
-- Shows a list of RSS feeds
-- Selecting a feed shows connected stories
-- Created screen from code with auto layout support
-- Add new feed
+- shows a list of RSS feeds
+- selecting a feed shows connected stories
+- created screen from code with auto layout support
+- add new feed
 
  <img src="images/feedsMain.png" widht= 150 height = 300  hspace="30" />  <img src="images/feedsAdd.png" widht= 150 height = 300  hspace="30" />
  
