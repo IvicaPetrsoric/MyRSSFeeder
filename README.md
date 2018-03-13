@@ -1,6 +1,6 @@
-#  <img src="images/icon.png" widht= 30 height = 30  hspace="30" />  RSS Reader
+# RSS Reader
 
-RSS reader app in Swift 4.
+ RSS reader app in Swift 4.
 #
 RSS feeds screen:
 - Shows a list of RSS feeds
