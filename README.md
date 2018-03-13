@@ -1,6 +1,6 @@
 # RSS Reader
 
- RSS reader app in Swift 4.
+ RSS reader app in Swift 4. Based on fetching XML content, parsing and showing details to user.
 #
 RSS feeds screen:
 - Shows a list of RSS feeds
