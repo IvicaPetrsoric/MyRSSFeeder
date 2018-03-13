@@ -1,4 +1,4 @@
-# RSS Reader
+#  <img src="images/icon.png" widht= 30 height = 30  hspace="30" />  RSS Reader
 
 RSS reader app in Swift 4.
 #
@@ -8,7 +8,7 @@ RSS feeds screen:
 - Created screen from code with auto layout support
 - Add new feed
 
- <img src="images/feeds.png" widht= 150 height = 300  hspace="30" />  <img src="images/feedsAdd.png" widht= 150 height = 300  hspace="30" />
+ <img src="images/feedsMain.png" widht= 150 height = 300  hspace="30" />  <img src="images/feedsAdd.png" widht= 150 height = 300  hspace="30" />
  
 #
 RSS stories screen:
